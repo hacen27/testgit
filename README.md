@@ -8,8 +8,8 @@ $ git config --list --show-origin
 
 Your Identity
 
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+$ git config --global user.name "your name"
+$ git config --global user.email yourmail@example.com
 
 git commit -m "first commit"
 git branch -M main
